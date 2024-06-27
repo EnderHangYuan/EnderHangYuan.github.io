@@ -230,6 +230,7 @@ Service ＆ Leadership
 * 2023-2024: Outstanding Student
   * Jiangsu Province
   * Duties included: 1) Outstanding academic performance. 2) One of three places in the School of Advanced Technology of XJTLU.
+  * [News 1](https://mp.weixin.qq.com/s/87LUYiy5gI-tBrkvcDEM0g). Only Chinese version.
 
 * 2022-2023: Excellent Student Cadre
   * Jiangsu Province
@@ -251,7 +252,7 @@ Service ＆ Leadership
   * XJTLU
   * Duties included: 1) Served as the league branch secretary and have excellent performance in class work.
 
-* 2022-2023: Outstanding Class Buddy
+* 2022-2023: Outstanding Academic Buddy
   * XJTLU
   * Duties included: 1) Worked with the university and guided students in the lower grades
 
