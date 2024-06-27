@@ -225,6 +225,7 @@ Service ＆ Leadership
   * Duties included: 1) Outstanding achievement in innovation and entrepreneurship, winning first place in the school competition for two consecutive years. 2) One of ten places in XJTLU.
   * [News 1](https://mp.weixin.qq.com/s/iyPLAfKzVgRNPapVv8u65g). Bilingual version.
   * [News 2](https://mp.weixin.qq.com/s/BmSW1Vp97E-suBTxmcwHpA). Bilingual version.
+  * [News 3](https://mp.weixin.qq.com/s/DHjxM-LZK1d6xDiX8OLL-g). Bilingual version.
 
 * 2023-2024: Outstanding Student
   * Jiangsu Province
