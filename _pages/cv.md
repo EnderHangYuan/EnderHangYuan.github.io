@@ -140,7 +140,7 @@ Research Experience
 * Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (01.2022-Current: Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Addressed the limited sensitivity and uncontrollable incubation time of traditional LFA. 2）Developed a CLFA platform that offers adjustable rotation speeds and enables smartphone-based quantitative bioassay detection, displaying results on the custom-designed UI and mobile application. 3) Developed a bio-inspired microfluidic channel to enhance the sensitivity of LFA in bioassays.
-  * Supervisor: [Dr. Pengfei Song](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/pengfei-song), Xi'an Jiaotong-Liverpool University
+  * Supervisor: [Dr. Pengfei Song](https://scholar.xjtlu.edu.cn/en/persons/PengfeiSong), Xi'an Jiaotong-Liverpool University
 ![Research 2](https://user-images.githubusercontent.com/98693538/203786462-740de5d6-629b-4294-94b4-a10447d13a01.jpg)
 
 * Microfluidic-Assisted _Caenorhabditis elegans_ (_C. elegans_) Sorting (07.2022-06.2023: Research Leader)
@@ -159,13 +159,13 @@ Research Experience
 * Humanoid Robot and Fatigue Analysis (05.2021-10.2021: Research Assistant)
   * [Summer Undergraduate Reasearch Fellowships](https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction), Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Developed humanoid robots based on Raspberry Pi or Arduino, and programmed motion sequences. 2）Assisted in the numerical and experimental analysis of a specific-sized spindle model to predict and compare fatigue life under various external loading conditions, validating the accuracy and reliability of the numerical simulation. 
-  * Supervisor: [Dr. Min Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/industrial-design/staff/min-chen), Xi'an Jiaotong-Liverpool University ＆ [Dr. Quan Zhang](https://www.xjtlu.edu.cn/en/departments/academic-departments/mechatronics-and-robotics/staff/quan-zhang), Xi'an Jiaotong-Liverpool University
+  * Supervisor: [Dr. Min Chen](https://scholar.xjtlu.edu.cn/en/persons/MinChen), Xi'an Jiaotong-Liverpool University ＆ [Dr. Quan Zhang](https://scholar.xjtlu.edu.cn/en/persons/QuanZhang), Xi'an Jiaotong-Liverpool University
 ![Research 1](https://user-images.githubusercontent.com/98693538/203786515-6d50629e-4dc9-41f7-837e-697a85ce1a7c.jpg)
 
 * ROBOMASTER National University Robot Competitions (10.2020-10.2022: Mechanical Engineer & Investment Manager)
   * Embedded Artificial Intelligence Hardware Universities-Enterprises Joint Key Laboratory, Xi'an Jiaotong-Liverpool University
   * Duties included: 1）Designed mechanical components for an automated sentry robot, including the launching and mobility mechanisms, enabling the launch of 17mm projectiles and rapid disassembly from the track. 2）Fabricated robots using appropriate materials (_e.g._, fiberglass, carbon fiber, resin, and nylon). 3) Authored business proposals and secured enterprise sponsorships to support team funding and operations. 
-  * Supervisor: [Prof. Cezhou Zhao (Cherish forever)](https://scholar.google.com/citations?user=Tl6gXWgAAAAJ&hl=zh-CN), Xi'an Jiaotong-Liverpool University & [Dr. Chun Zhao](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/chun-zhao), Xi'an Jiaotong-Liverpool University
+  * Supervisor: [Prof. Cezhou Zhao (Cherish forever)](https://scholar.google.com/citations?user=Tl6gXWgAAAAJ&hl=zh-CN), Xi'an Jiaotong-Liverpool University & [Dr. Chun Zhao](https://scholar.xjtlu.edu.cn/en/persons/ChunZhao), Xi'an Jiaotong-Liverpool University
 
 * Self-Adaptive Robot Hands (01.2018-08.2019: Visiting Student)
   * Key Laboratory for Advanced Materials Processing Technology, Tsinghua University
