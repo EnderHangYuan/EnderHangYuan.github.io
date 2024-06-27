@@ -1,5 +1,5 @@
 ---
-title: "XJTLU student: Painting for health-care workers, Cheering for fighting against COVID-19"
+title: "XJTLU student: Painting for health-care workers, cheering for fighting against COVID-19"
 collection: portfolio
 ---
 
