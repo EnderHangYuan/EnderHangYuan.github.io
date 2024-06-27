@@ -1,5 +1,5 @@
 ---
-title: "XJTLU Student Story: "
+title: "XJTLU Student Story 2024"
 collection: portfolio
 ---
 
