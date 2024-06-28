@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome here! I am Hang Yuan."
+title: "Welcome here! I am Hang Yuan (苑航)."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
