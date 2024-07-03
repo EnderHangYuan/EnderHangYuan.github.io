@@ -15,7 +15,7 @@ I also received reports from Chinese media, including China Youth Daily:
 
 [China Youth Daily](https://mp.weixin.qq.com/s/BSL2LCONeQ1csGvvn6ooPg)
 
-[Yangtze Evening News](https://wap.yzwb.net/wap/news/3860947.html?timestamp=1719811907153)
+[Yangtze Evening Post](https://wap.yzwb.net/wap/news/3860947.html?timestamp=1719811907153)
 
 ![Research 6](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/336a6b8a-832e-4283-a41c-dfc589c725a4)
 ![Research 7](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/99b41639-7823-4aa8-a1f3-a0b0c2378fc0)
