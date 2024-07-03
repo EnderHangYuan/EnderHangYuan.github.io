@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (expected)
+* Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (expected-incoming Ph.D. student)
 * B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024
 * B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024
 
