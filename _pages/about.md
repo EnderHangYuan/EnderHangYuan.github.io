@@ -27,7 +27,7 @@ Research Interest
 
 Education Experience
 =====
-* Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (expected)
+* Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (expected-incoming Ph.D. student)
 ![logo1](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/31378c30-dfa0-4a54-afda-2b79b3030dba)
 * B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024
 ![logo2](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/195182d3-1c9f-487c-a9ff-b47e1f0f8ae1)
