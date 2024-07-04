@@ -139,7 +139,7 @@ Research Experience
 ======
 * Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (01.2022-Current: Research Leader)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Addressed the limited sensitivity and uncontrollable incubation time of traditional LFA. 2）Developed a CLFA platform that offers adjustable rotation speeds and enables smartphone-based quantitative bioassay detection, displaying results on the custom-designed UI and mobile application. 3) Developed a bio-inspired microfluidic channel to enhance the sensitivity of LFA in bioassays.
+  * Duties included: 1）Addressed the limited sensitivity and uncontrollable incubation time of traditional LFA. 2）Developed a CLFA platform that offers adjustable rotation speeds and enables smartphone-based quantitative bioassay and active sample flow control, displaying results on the custom-designed UI and mobile application. 3) Developed a bio-inspired microfluidic channel to enhance the sensitivity of LFA in bioassays.
   * Supervisor: [Dr. Pengfei Song](https://scholar.xjtlu.edu.cn/en/persons/PengfeiSong), Xi'an Jiaotong-Liverpool University
 ![Research 2](https://user-images.githubusercontent.com/98693538/203786462-740de5d6-629b-4294-94b4-a10447d13a01.jpg)
 
@@ -151,7 +151,7 @@ Research Experience
 
 * Nanocellulose Paper (nanopaper)-Based Microfluidic Platform (07.2022-Current: Research Assistant)
   * Intelligent Microsystems Laboratory, Xi'an Jiaotong-Liverpool University
-  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanocellulose paper, optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected untreated glial fibrillary acidic protein (GFAP) in human plasma without pretreatment using SERS on NanoPADs, enabling highly sensitive early screening of Alzheimer's disease.
+  * Duties included: 1）Developed a facile microembossing process using plastic micro-molds to efficiently fabricate microchannels on nanocellulose paper, optimizing the pattern parameters and saving time. 2）Developed fundamental microfluidic devices and functional nanopaper-based analytical devices (NanoPADs). 3) Performed colorimetric experiments and tested the droplet generation. 4) Detected glial fibrillary acidic protein (GFAP) in artificial plasma using SERS on NanoPADs, enabling high-sensitive biomarker detection of Alzheimer’s disease.
   * Supervisor: [Prof. Xinyu Liu](https://www.mie.utoronto.ca/faculty_staff/xinyu-liu/), University of Toronto & Dr. Pengfei Song, Xi'an Jiaotong-Liverpool University
 ![Research 3](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/40c7287b-3913-4bed-b830-9a1f1d4c4e34)
 ![Research 4](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/9721ca4d-58e4-4545-a110-062f07623877)
