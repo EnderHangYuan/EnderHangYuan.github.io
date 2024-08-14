@@ -14,9 +14,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (expected-incoming Ph.D. student)
-* B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University, 2020-2024
-* B.Eng. in Mechatronics and Robotic Systems, University of Liverpool, 2020-2024
+* Ph.D. in Biomedical Engineering, Michigan State University, 2024-2029 (Ph.D. student Now)
+* B.Eng. in Mechatronics and Robotic Systems, Xi'an Jiaotong-Liverpool University (First Class (Honors)), 2020-2024
+* B.Eng. in Mechatronics and Robotic Systems, University of Liverpool (First Class (Honors)), 2020-2024
 
 Standardized Scores
 ======
@@ -94,6 +94,7 @@ Granted Patents
 
 Honors
 ======
+* Best Performance in Final Year Project (School-wide top 1), XJTLU, 2023-2024
 * [Final Year Project Best Student Poster Award (School-wide top 1)](https://mp.weixin.qq.com/s/87LUYiy5gI-tBrkvcDEM0g), XJTLU, 2023-2024
 * Outstanding Student (University-wide top 0.1%), Jiangsu Province, 2023-2024
 * Excellent Student Cadre (University-wide top 0.1%), Jiangsu Province, 2022-2023
