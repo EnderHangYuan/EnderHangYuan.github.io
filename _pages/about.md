@@ -10,11 +10,11 @@ redirect_from:
 
 Brief Introduction
 =====
-I'm pursuing my B.Eng. degrees in [Mechatronics and Robotic Systems](https://www.xjtlu.edu.cn/en/study/undergraduate/mechatronics-and-robotic-systems) at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) and the [University of Liverpool (UoL)](https://www.liverpool.ac.uk) now, under the supervision of [Associate Professor Pengfei Song](https://scholar.xjtlu.edu.cn/en/persons/PengfeiSong). During this period, I am also grateful for the supervision provided by [Professor Xinyu Liu](https://scholar.google.ca/citations?user=g0O5-8gAAAAJ&hl=en) at the University of Toronto.
+I obtained my B.Eng. degrees in [Mechatronics and Robotic Systems](https://www.xjtlu.edu.cn/en/study/undergraduate/mechatronics-and-robotic-systems) at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) and the [University of Liverpool (UoL)](https://www.liverpool.ac.uk) now, under the supervision of [Associate Professor Pengfei Song](https://scholar.xjtlu.edu.cn/en/persons/PengfeiSong). During this period, I am also grateful for the supervision provided by [Professor Xinyu Liu](https://scholar.google.ca/citations?user=g0O5-8gAAAAJ&hl=en) at the University of Toronto.
 
 I once learned robot hands from [Associate Professor Wenzeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=n-3doEMAAAAJ&view_op=list_works&sortby=pubdate) in the Key Laboratory for Advanced Materials Processing Technology, [Department of Mechanical Engineering, Tsinghua University](https://www.me.tsinghua.edu.cn/en/).
 
-I will begin my doctoral studies in [Biomedical Engineering](https://engineering.msu.edu/about/departments/bme) at [Michigan State University (MSU)](https://msu.edu/) in the fall of 2024.
+I begin my doctoral studies in [Biomedical Engineering](https://engineering.msu.edu/about/departments/bme) at [Michigan State University (MSU)](https://msu.edu/) in the fall of 2024.
 
 Research Interest
 =====
