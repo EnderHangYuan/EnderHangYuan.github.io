@@ -102,7 +102,8 @@ Honors
 * Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
 * Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023  
 * Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021
-![Best Student Poster Award](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/75bce9b1-88ca-4c71-a5f1-f6ead8b407e5)                
+![Best Performance](https://github.com/user-attachments/assets/3c10f13a-b228-48aa-9972-03ef3900bea9)
+![IET prize](https://github.com/user-attachments/assets/9cfd5a79-fffd-4eba-bf4e-116a3713bd45)             
  
 Awards
 ======
