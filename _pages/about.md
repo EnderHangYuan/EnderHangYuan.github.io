@@ -14,7 +14,7 @@ I obtained my B.Eng. degrees in [Mechatronics and Robotic Systems](https://www.x
 
 I once learned robot hands from [Associate Professor Wenzeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=n-3doEMAAAAJ&view_op=list_works&sortby=pubdate) in the Key Laboratory for Advanced Materials Processing Technology, [Department of Mechanical Engineering, Tsinghua University](https://www.me.tsinghua.edu.cn/en/).
 
-I begin my doctoral studies in [Biomedical Engineering](https://engineering.msu.edu/about/departments/bme) at [Michigan State University (MSU)](https://msu.edu/) in the fall of 2024.
+I begin my doctoral studies in [Biomedical Engineering](https://engineering.msu.edu/about/departments/bme) at [Michigan State University (MSU)](https://msu.edu/) in the fall of 2024, under the supervision of [Assistant Professor Jinxing Li](https://www.labli.net/).
 
 Research Interest
 =====
