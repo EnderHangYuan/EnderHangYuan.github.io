@@ -95,6 +95,7 @@ Granted Patents
 Honors
 ======
 * [The IET Prize](https://www.theiet.org/impact-society/awards-prizes-and-scholarships/iet-student-prizes), The Institution of Engineering and Technology, 2023-2024
+* [Excellent Undergraduate Final Year Project Award](https://www.xjtlu.edu.cn/zh/about/policies-and-regulations/2024jiangsubenkelunwengongshi), Jiangsu Provincial Department of Education, 2023-2024
 * Best Performance in Final Year Project (School-wide top 1), XJTLU, 2023-2024
 * [Final Year Project Best Student Poster Award (School-wide top 1)](https://mp.weixin.qq.com/s/87LUYiy5gI-tBrkvcDEM0g), XJTLU, 2023-2024
 * Outstanding Student (University-wide top 0.1%), Jiangsu Province, 2023-2024
