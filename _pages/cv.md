@@ -47,6 +47,8 @@ Peer-Reviewed Journal Papers:
 
 * [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
 
+* [Facile Laser-Cutting Process for Nanocellulose-Paper-Based Microfluidic Microchannel Fabrication](https://enderhangyuan.github.io/publication/20250215), 2025
+
 * [Mechanical Characterization of Multifunctional Metal-Coated Polymer Lattice Structures](https://enderhangyuan.github.io/publication/20240203), 2024
 
 * [Cellulose Nanostructures as Tunable Substrates for Nanocellulose-Metal Hybrid Flexible Composites](https://enderhangyuan.github.io/publication/20240216), 2024
