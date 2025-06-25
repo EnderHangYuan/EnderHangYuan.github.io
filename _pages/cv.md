@@ -27,7 +27,7 @@ Standardized Scores
 Publications
 ======
 Peer-Reviewed Journal Papers:
-* [Centrifugation-Assisted Lateral Flow Assay Platform: Enhancing Bioassay Sensitivity with Active Flow Control](https://enderhangyuan.github.io/publication/20250522) (First author), 2025
+* [Centrifugation-Assisted Lateral Flow Assay Platform: Enhancing Bioassay Sensitivity with Active Flow Control](https://enderhangyuan.github.io/publication/20250522) (Feature Article-First author), 2025
 
 * [Navigating the Uncertainty: the Impact of a Student-Centered Final Year Project Allocation Mechanism on Student Performance](https://enderhangyuan.github.io/publication/20240618) (First author), 2024
 
