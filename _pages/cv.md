@@ -294,3 +294,7 @@ Covers
 
 * [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://enderhangyuan.github.io/publication/20240408), 2024
 ![AMI cover](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/ad898bb5-7441-4677-bf2d-d5154125c465)
+
+* [Centrifugation-assisted lateral flow assay platform: enhancing bioassay sensitivity with active flow control (Feature Article)](https://enderhangyuan.github.io/publication/20250522), 2025
+![Feature Image_MICRONANO-3784](https://github.com/user-attachments/assets/7b177d5f-cdb9-47c5-9d0e-8caf91be899f)
+
