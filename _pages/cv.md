@@ -47,6 +47,8 @@ Peer-Reviewed Journal Papers:
 
 * [The Impact of Short Videos on Student Performance in an Online-Flipped College Engineering Course](https://enderhangyuan.github.io/publication/20220922) (Second author), 2022
 
+* [MOF-Assisted Nanocellulose Paper-Based Platform for Multiple Surface-Enhanced Raman Scattering Detection](https://enderhangyuan.github.io/publication/20250822) (Cover paper), 2025
+
 * [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
 
 * [Facile Laser-Cutting Process for Nanocellulose-Paper-Based Microfluidic Microchannel Fabrication](https://enderhangyuan.github.io/publication/20250215), 2025
@@ -298,3 +300,5 @@ Covers
 * [Centrifugation-assisted lateral flow assay platform: enhancing bioassay sensitivity with active flow control (Feature Article)](https://enderhangyuan.github.io/publication/20250522), 2025
 ![Feature Image_MICRONANO-3784](https://github.com/user-attachments/assets/7b177d5f-cdb9-47c5-9d0e-8caf91be899f)
 
+* [MOF-Assisted Nanocellulose Paper-Based Platform for Multiple Surface-Enhanced Raman Scattering Detection](https://enderhangyuan.github.io/publication/20250822), 2025
+![AC cover2](https://github.com/user-attachments/assets/6ce8d91b-e81a-4734-8f2c-c94bf727fa7d)
