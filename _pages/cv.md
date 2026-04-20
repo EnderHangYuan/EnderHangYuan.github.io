@@ -49,6 +49,8 @@ Peer-Reviewed Journal Papers:
 
 * [MOF-Assisted Nanocellulose Paper-Based Platform for Multiple Surface-Enhanced Raman Scattering Detection](https://enderhangyuan.github.io/publication/20250822) (Cover paper), 2025
 
+* [Mycoelectronics: Bioprinted Living Fungal Bioelectronics for Artificial Sensation](https://www.biorxiv.org/content/10.1101/2025.10.06.680560v3.abstract) (Under review), 2026
+
 * [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
 
 * [Facile Laser-Cutting Process for Nanocellulose-Paper-Based Microfluidic Microchannel Fabrication](https://enderhangyuan.github.io/publication/20250215), 2025
@@ -62,6 +64,8 @@ Peer-Reviewed Journal Papers:
 Peer-Reviewed Conference Papers:
 * [A Novel Hedgehog-Inspired Pin-Array Robot Hand with Multiple Magnetic Pins for Adaptive Grasping](https://enderhangyuan.github.io/publication/20190811) (First author), 2019
 
+* A Multiscale Shakedown-Based Platform for Fatigue Capacity Prediction of Parametrized Lattices in Next-Generation Energy Storage Containers (Under review-Second author), 2026
+
 * [Transfer Printing Assisted Fabrication of a Cicada Wing Inspired Nanopaper SERS Platform](https://enderhangyuan.github.io/publication/20251006) (Second author), 2025
 
 * [Automated Offline Smartphone-Assisted Microfluidic Paper-Based Analytical Device for Biomarker Detection of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202404301), 2024
@@ -74,6 +78,12 @@ Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0
 
 Conference Participation
 ======
+* Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Oral Presentation-First author). 2026
+
+* Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Poster-First author). 2026
+
+* [Robotic 3D Printing of Building Structures Using Lightweight Concrete](https://enderhangyuan.github.io/publication/20260407) (Awardee Presentation-Co-first author). 2026
+  
 * [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster-First author), 2023
 
 * [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202305102) (Poster-Second author), 2023
@@ -102,6 +112,8 @@ Granted Patents
 
 Honors
 ======
+* [COGS Conference Award](https://cogs.msu.edu/resources/funding/conference-award/), MSU 2026
+* [Graduate School](https://grad.msu.edu/funding/travel-funding) & [College of Engineering Travel Fellowship](https://engineering.msu.edu/current-students/graduate/conference-travel-grants), MSU, 2026
 * [The IET Prize](https://www.theiet.org/impact-society/awards-prizes-and-scholarships/iet-student-prizes), The Institution of Engineering and Technology, 2023-2024
 * [Excellent Undergraduate Final Year Project Award](https://www.xjtlu.edu.cn/zh/about/policies-and-regulations/2024jiangsubenkelunwengongshi), Jiangsu Provincial Department of Education, 2023-2024
 * Best Performance in Final Year Project (School-wide top 1), XJTLU, 2023-2024
@@ -114,7 +126,7 @@ Honors
 ![IET prize](https://github.com/user-attachments/assets/9cfd5a79-fffd-4eba-bf4e-116a3713bd45) 
 ![Best Performance](https://github.com/user-attachments/assets/3c10f13a-b228-48aa-9972-03ef3900bea9)
  
-Awards
+Competition Awards
 ======
 Three 1𝑠𝑡 prizes, one 2𝑛𝑑 prizes, and three 3𝑟𝑑 prizes in national-level competitions:
 * The 1𝑠𝑡 Prize of 2022 [RoboMaster University Championship](https://www.robomaster.com/en-US/robo/rm?djifrom=nav) in the 21𝑠𝑡 National University Robot Competition _National Regional_, 2022
@@ -146,7 +158,25 @@ Three 1𝑠𝑡 prizes in university-level competitions:
 * The 𝑁𝑜. 1 in China "Internet+" Student Innovation and Entrepreneurship Competition of XJTLU, 2021
 ![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 The photograph is from the official website of DJI [RoboMaster](https://www.robomaster.com/en-US) for competition cultural promotion (I am the first one on the left).
-                       
+
+Student Mentorship
+======
+* Undergraduate Researchers
+  * Linux Joseph Jones Heller (Visiting student, Jan. 2025 - Aug. 2025, MSU), Current position: Incoming Ph.D. student at the University of Toronto
+  * Grant Hubbard (May 2025 - Present, MSU)
+  * Eleanor DelPlace (Sep. 2025 - Present, MSU)
+  * Soham Inamdar (Jan. 2025 - Present, MSU), Current position: Incoming Master student at the University of California, San Diego
+  * Nemo Liu (Sep. 2025 - Present, MSU)
+
+Professional Services
+======
+* Symposium Assistant, MRS Spring Meeting & Exhibit, Apr. 2026 - May 2026
+* BME Graduate Mentor, MSU, Aug. 2025 - Jan. 2026
+
+Professional Society Membership
+======
+* Associate membership, The Institution of Engineering and Technology (IET)
+                      
 Research Experience
 ======
 * Centrifugation-Assisted Lateral Flow Assay (CLFA) Platform (01.2022-07.2024: Research Leader)
@@ -189,7 +219,7 @@ Internship Experiences
 * Summer, 2021: Internship 
   * Suzhou Non-Fish Culture Communication Co., Ltd. 
   * Duties included: 1) Assisted in project planning for industrial robots, AGVs, and AR/VR/MR projects. 2) Collaborated with suppliers, and developed work memos and project proposals.
-  * [XJTLU did an interview with me and my boss](https://mp.weixin.qq.com/s/7AOMWfm8usHHfbpv7ktqxg). Only Chinese version.
+  * [XJTLU did an interview with my boss and me](https://mp.weixin.qq.com/s/7AOMWfm8usHHfbpv7ktqxg). Only the Chinese version.
 
 Teaching Activities
 ======
@@ -211,7 +241,7 @@ Service ＆ Leadership
 
 * 2021-2022: Liaison Minister
   * XJTLU G-Master Robot Club
-  * Duties included: 1) Lectured on making combat robots to the undergraduate and organized competitions.
+  * Duties included: 1) Lectured on making combat robots to the undergraduate students and organized competitions.
 
 * 2022-2023: Corporation & Executive Director
   * Yuanhe Technology (Changzhou) Co., Ltd.
@@ -219,12 +249,12 @@ Service ＆ Leadership
 * 2022-2023: Project Leader
   * XJTLU entrepreneurship project-ESGrow 
   * Duties included: 1) Established Yuanhe Technology (Changzhou) Co., Ltd. with the support of Changzhou Wujin District Government. 2) Provided smart solutions for urban farming, promoting community energy efficiency based on ESG principles.
-  * [News 1](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ). Only Chinese version.
-  * [News 2](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q). Only Chinese version.
-  * [News 3](https://mp.weixin.qq.com/s/DBinK5NBRqR5H2MtGO22Ew). Only Chinese version.
-  * [News 4](https://mp.weixin.qq.com/s/7HA1scGuCrFj6gf_dNzk9Q). Only Chinese version.
-  * [News 5](https://mp.weixin.qq.com/s/wDgXB_AaAAY9lPPccgwJ_w). Only Chinese version.
-  * [News 6](https://mp.weixin.qq.com/s/ULFPHT0yGx4K7hItsAFSlg). Only Chinese version.
+  * [News 1](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ). Only the Chinese version.
+  * [News 2](https://mp.weixin.qq.com/s/u3E8eXHMsEi523YWLLsj2Q). Only the Chinese version.
+  * [News 3](https://mp.weixin.qq.com/s/DBinK5NBRqR5H2MtGO22Ew). Only the Chinese version.
+  * [News 4](https://mp.weixin.qq.com/s/7HA1scGuCrFj6gf_dNzk9Q). Only the Chinese version.
+  * [News 5](https://mp.weixin.qq.com/s/wDgXB_AaAAY9lPPccgwJ_w). Only the Chinese version.
+  * [News 6](https://mp.weixin.qq.com/s/ULFPHT0yGx4K7hItsAFSlg). Only the Chinese version.
 
 * 2021-2022: Project Leader
   * XJTLU entrepreneurship project-Inkless 
@@ -242,7 +272,7 @@ Service ＆ Leadership
 * 2023-2024: Outstanding Student
   * Jiangsu Province
   * Duties included: 1) Outstanding academic performance. 2) One of three places in the School of Advanced Technology of XJTLU.
-  * [News 1](https://mp.weixin.qq.com/s/87LUYiy5gI-tBrkvcDEM0g). Only Chinese version.
+  * [News 1](https://mp.weixin.qq.com/s/87LUYiy5gI-tBrkvcDEM0g). Only the Chinese version.
 
 * 2022-2023: Excellent Student Cadre
   * Jiangsu Province
@@ -253,8 +283,8 @@ Service ＆ Leadership
 * 2021-2022 & 2022-2023: Outstanding Student
   * XJTLU
   * Duties included:1) Outstanding academic performance (5% of School of Advanced Technology students).
-  * [News 1](https://mp.weixin.qq.com/s/e11iqkwPLuuVBI-TVAIGQg). Only Chinese version.
-  * [News 2](https://mp.weixin.qq.com/s/t_SKl_C6mQ08AK4HPwznVw). Only Chinese version.
+  * [News 1](https://mp.weixin.qq.com/s/e11iqkwPLuuVBI-TVAIGQg). Only the Chinese version.
+  * [News 2](https://mp.weixin.qq.com/s/t_SKl_C6mQ08AK4HPwznVw). Only the Chinese version.
 
 * 2021-2022: Excellent Student Cadre
   * XJTLU
@@ -262,7 +292,7 @@ Service ＆ Leadership
 
 * 2020-2021: League branch secretary, Outstanding Class Cadre
   * XJTLU
-  * Duties included: 1) Served as the league branch secretary and have excellent performance in class work.
+  * Duties included: 1) Served as the league branch secretary and had excellent performance in class work.
 
 * 2022-2023: Outstanding Academic Buddy
   * XJTLU
@@ -270,7 +300,7 @@ Service ＆ Leadership
 
 * Winter, 2020: The team leader, Pioneer Award
   * 2020 I-Link of XJTLU 
-  * Duties included: 1) Led the team to take a lecture in Alma mater and won the second prize.
+  * Duties included: 1) Led the team to give a lecture at Alma mater and won the second prize.
 
 * Winter, 2020: Excellent model
   * 2020 Military training of XJTLU
@@ -283,10 +313,10 @@ Skills
   * _CAD/CAE_: SolidWorks, AutoCAD, ANSYS (workbench), Rhino
   * _Graphic design_: Adobe Illustrator, Adobe Premiere, Adobe Photoshop, KeyShot, Origin
 * Experimental Skills:
-  * _Fabrication_: 3D printing, wax printing, laser cutting
+  * _Fabrication_: 3D printing, Wax printing, Laser cutting, Two-photon polymerization (2PP)
   * _Immunoassays_: Enzyme-linked immunosorbent assay (ELISA), Lateral flow assay (LFA)
   * _Chemical synthesis_: AuNPs, AgNPs, Bottlebrush elastomers
-  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography)
+  * _Characterization_: [UV-vis](https://en.wikipedia.org/wiki/Ultraviolet%E2%80%93visible_spectroscopy), [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope), [SERS](https://en.wikipedia.org/wiki/Surface-enhanced_Raman_spectroscopy), [XRD](https://en.wikipedia.org/wiki/X-ray_crystallography), Confocal microscope
 * Language:
   * Mandarin (Native)
   * English (English-only instruction)
