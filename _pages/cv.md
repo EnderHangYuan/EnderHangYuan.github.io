@@ -81,9 +81,9 @@ Conference Participation
 * Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Oral Presentation-First author), 2026
 
 * Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Poster-First author), 2026
-
-* [Robotic 3D Printing of Building Structures Using Lightweight Concrete](https://enderhangyuan.github.io/portfolio/ARPAE2026/) (Awardee Presentation-Co-first author), 2026
   
+* [Robotic 3D Printing of Building Structures Using Lightweight Concrete](https://enderhangyuan.github.io/portfolio/ARPAE2026/) (Awardee Presentation-Co-first author), 2026
+
 * [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster-First author), 2023
 
 * [Highly-integrated SERS-Based Immunoassay NanoPADs for Early Diagnosis of Alzheimer's Disease](https://enderhangyuan.github.io/publication/202305102) (Poster-Second author), 2023
