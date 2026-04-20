@@ -18,12 +18,10 @@ I begin my doctoral studies in [Biomedical Engineering](https://engineering.msu.
 
 Research Interest
 =====
+* Engineered living materials
+* Micro-/Nano-robots
+* Soft electronics for biomedical sensing
 * Paper-based microfluidics, including LFA, ELISA, and nanocellulose paper
-* MEMS and flexible devices for biomedical sensing
-* Microfluidic-assisted _C. elegans_ sorting
-* Micro-/Nano-robots for healthcare
-* Micro-/Nano-fabrication
-* Robot hands
 
 Education Experience
 =====
@@ -36,3 +34,6 @@ Education Experience
 
 [XJTLU Student Story](https://www.xjtlu.edu.cn/zh/news/2024/05/xuezigushiyuanhang)
 ![Research 6](https://github.com/EnderHangYuan/EnderHangYuan.github.io/assets/98693538/5472078f-0be0-47f0-9fc8-8421d6f2a625)
+
+<img width="4226" height="5283" alt="Hang Yuan MSU" src="https://github.com/user-attachments/assets/0742ccb1-9e30-4db4-bd6d-f7eb27b9eceb" />
+
