@@ -4,6 +4,7 @@ collection: portfolio
 ---
 
 Great experience presenting our work on MycoCrete building materials at the [Advanced Research Projects Agency-Energy (ARPA-E) Summit](https://www.arpae-summit.com/)!
+
 <img width="2333" height="2873" alt="1" src="https://github.com/user-attachments/assets/0f9aa7d7-13de-4d0f-9f42-c362f4044394" />
 <img width="1936" height="3072" alt="2" src="https://github.com/user-attachments/assets/3a347990-5b9f-44f0-b30b-0d3f60d49a70" />
 <img width="2416" height="3072" alt="5" src="https://github.com/user-attachments/assets/d71df9ea-be36-47f7-b4c1-39171863b0a2" />
