@@ -82,7 +82,7 @@ Conference Participation
 
 * Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Poster-First author), 2026
 
-* [Robotic 3D Printing of Building Structures Using Lightweight Concrete](https://enderhangyuan.github.io/publication/20260407) (Awardee Presentation-Co-first author), 2026
+* [Robotic 3D Printing of Building Structures Using Lightweight Concrete](https://enderhangyuan.github.io/publication/20260407](https://enderhangyuan.github.io/portfolio/ARPAE2026/)) (Awardee Presentation-Co-first author), 2026
   
 * [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster-First author), 2023
 
@@ -123,7 +123,8 @@ Honors
 * Outstanding Student (School-wide top 5%), XJTLU, 2021-2022
 * Entrepreneurship Star (University-wide top 1%), XJTLU, 2021-2022 & 2022-2023  
 * Excellent Student Cadre & Outstanding Class Cadre (University-wide top 1%), XJTLU, 2020-2021
-![IET prize](https://github.com/user-attachments/assets/9cfd5a79-fffd-4eba-bf4e-116a3713bd45) 
+<img width="841" height="1182" alt="dfdb12ceda1dc6e2ea891d853e4801fd" src="https://github.com/user-attachments/assets/aada562f-b0cf-441a-91d2-c9a1479b9cef" />
+
 ![Best Performance](https://github.com/user-attachments/assets/3c10f13a-b228-48aa-9972-03ef3900bea9)
  
 Competition Awards
@@ -167,6 +168,10 @@ Student Mentorship
   * Eleanor DelPlace (Sep. 2025 - Present, MSU)
   * Soham Inamdar (Jan. 2025 - Present, MSU), Current position: Incoming Master student at the University of California, San Diego
   * Nemo Liu (Sep. 2025 - Present, MSU)
+
+<img width="1920" height="1080" alt="March madness" src="https://github.com/user-attachments/assets/06d98cd7-f0c7-4cbd-8888-4420e82e6ce2" />
+
+<img width="5154" height="3681" alt="Group photo" src="https://github.com/user-attachments/assets/71da1ec7-9de4-44cc-98b9-32b08c21a4c3" />
 
 Professional Services
 ======
