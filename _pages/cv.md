@@ -78,11 +78,11 @@ Please refer to [ORCID (0000-0002-8079-7413)](https://orcid.org/my-orcid?orcid=0
 
 Conference Participation
 ======
-* Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Oral Presentation-First author). 2026
+* Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Oral Presentation-First author), 2026
 
-* Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Poster-First author). 2026
+* Biosynthetic Additive Manufacturing of Structural Materials through Mycelium-Bacteria Consortia (Poster-First author), 2026
 
-* [Robotic 3D Printing of Building Structures Using Lightweight Concrete](https://enderhangyuan.github.io/publication/20260407) (Awardee Presentation-Co-first author). 2026
+* [Robotic 3D Printing of Building Structures Using Lightweight Concrete](https://enderhangyuan.github.io/publication/20260407) (Awardee Presentation-Co-first author), 2026
   
 * [A Centrifugation-Assisted Lateral Flow Assay Platform for Bioassay Sensitivity and Visualization Enhancement](https://enderhangyuan.github.io/publication/202305101) (Poster-First author), 2023
 
