@@ -37,7 +37,7 @@ Peer-Reviewed Journal Papers:
 
 * [Research Status and Prospects of Adaptive Robotic Hands (CN)](https://enderhangyuan.github.io/publication/20190410) (First author), 2019
 
-* [Mycoelectronics: Bioprinted living fungal bioelectronics for artificial sensation](https://enderhangyuan.github.io/publication/20260619) (Second author), 2026
+* [Mycoelectronics: Bioprinted living fungal bioelectronics for artificial sensation](https://enderhangyuan.github.io/publication/20260618) (Second author), 2026
 
 * [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://enderhangyuan.github.io/publication/20240408) (Cover paper-Second author), 2024
 
