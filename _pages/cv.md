@@ -37,6 +37,8 @@ Peer-Reviewed Journal Papers:
 
 * [Research Status and Prospects of Adaptive Robotic Hands (CN)](https://enderhangyuan.github.io/publication/20190410) (First author), 2019
 
+* [Mycoelectronics: Bioprinted living fungal bioelectronics for artificial sensation](https://enderhangyuan.github.io/publication/20260619) (Second author), 2026
+
 * [Metal–Organic Frameworks/Heterojunction Structures for Surface-Enhanced Raman Scattering with Enhanced Sensitivity and Tailorability](https://enderhangyuan.github.io/publication/20240408) (Cover paper-Second author), 2024
 
 * [A SERS Nanocellulose-Paper-Based Analytical Device for Ultrasensitive Detection of Alzheimer's Disease](https://enderhangyuan.github.io/publication/20240304) (Second author), 2024
@@ -48,8 +50,6 @@ Peer-Reviewed Journal Papers:
 * [The Impact of Short Videos on Student Performance in an Online-Flipped College Engineering Course](https://enderhangyuan.github.io/publication/20220922) (Second author), 2022
 
 * [MOF-Assisted Nanocellulose Paper-Based Platform for Multiple Surface-Enhanced Raman Scattering Detection](https://enderhangyuan.github.io/publication/20250822) (Cover paper), 2025
-
-* [Mycoelectronics: Bioprinted Living Fungal Bioelectronics for Artificial Sensation](https://www.biorxiv.org/content/10.1101/2025.10.06.680560v3.abstract) (Under review), 2026
 
 * [An Ultrasensitive FET Biosensor Based on Vertically Aligned MoS2 Nanolayers with Abundant Surface Active Sites](https://enderhangyuan.github.io/publication/20230303), 2023
 
